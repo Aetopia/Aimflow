@@ -1,5 +1,16 @@
 # Aimflow
-Fixes stuttery mouse input when using an external framerate limiter with Halo Infinite.
+[Fixes stuttery mouse input when using an external framerate limiter with Halo Infinite.](https://www.youtube.com/watch?v=4pJd-dKW7WY)
+
+## Installation
+- Download the latest release from [GitHub Releases](https://github.com/Aetopia/Aimflow/releases/latest).
+   
+- Open Halo Infinite's installation directory.
+   
+- Replace `DumpTool.exe` in:
+
+    - Multiplayer: `<Installation Directory>\game`
+      
+    - Campaign: `<Installation Directory>\subgames\CampaignS1`
 
 ## Building
 1. Install [MSYS2](https://www.msys2.org/) & [UPX](https://upx.github.io/) for optional compression.
