@@ -1,3 +1,6 @@
+> [!CAUTION]
+> **This doesn't trigger [Easy Anti-Cheat](https://support.halowaypoint.com/hc/en-us/articles/24540901669780-Halo-Infinite-Content-Update-31-Patch-Notes) but use at your own risk.**
+
 # Aimflow
 [Fixes stuttery mouse input when using an external framerate limiter with Halo Infinite.](https://www.youtube.com/watch?v=4pJd-dKW7WY)
 
